@@ -1,0 +1,232 @@
+D:\Anaconda3\envs\torch\python.exe D:/data/My/NLP/img_text_match/main.py
+INFO:root:(train) All embedding vectors have been loaded.
+D:\Anaconda3\envs\torch\lib\site-packages\torch\nn\functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  ..\c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+INFO:root:(train) image and text 100/273 have been loaded.
+INFO:root:(train) image and text 200/273 have been loaded.
+INFO:root:(train) image and text 273/273 have been loaded.
+INFO:root:(train) All images and texts have been loaded.
+INFO:root:(dev) All embedding vectors have been loaded.
+INFO:root:(dev) image and text 36/36 have been loaded.
+INFO:root:(dev) All images and texts have been loaded.
+INFO:root:(test) All embedding vectors have been loaded.
+INFO:root:(test) image and text 83/83 have been loaded.
+INFO:root:(test) All images and texts have been loaded.
+INFO:root:Epoch: [1/30] Step: [1/13] Loss: 0.4466930627822876
+INFO:root:Epoch: [1/30] Step: [11/13] Loss: 0.3450530171394348
+INFO:root:Epoch: [1/30] Step: [13/13] Loss: 0.3015783429145813
+INFO:root:Epoch: [2/30] Step: [1/13] Loss: 0.3179543614387512
+INFO:root:Epoch: [2/30] Step: [11/13] Loss: 0.3075082302093506
+INFO:root:Epoch: [2/30] Step: [13/13] Loss: 0.29977476596832275
+INFO:root:Epoch: [3/30] Step: [1/13] Loss: 0.3059799373149872
+INFO:root:Epoch: [3/30] Step: [11/13] Loss: 0.3029586374759674
+INFO:root:Epoch: [3/30] Step: [13/13] Loss: 0.2980386018753052
+INFO:root:Epoch: [4/30] Step: [1/13] Loss: 0.3018084764480591
+INFO:root:Epoch: [4/30] Step: [11/13] Loss: 0.30099961161613464
+INFO:root:Epoch: [4/30] Step: [13/13] Loss: 0.2977260947227478
+INFO:root:Epoch: [5/30] Step: [1/13] Loss: 0.30054354667663574
+INFO:root:Epoch: [5/30] Step: [11/13] Loss: 0.30071312189102173
+INFO:root:Epoch: [5/30] Step: [13/13] Loss: 0.2966197729110718
+INFO:root:Epoch: [6/30] Step: [1/13] Loss: 0.2999332845211029
+INFO:root:Epoch: [6/30] Step: [11/13] Loss: 0.29982277750968933
+INFO:root:Epoch: [6/30] Step: [13/13] Loss: 0.2964319586753845
+INFO:root:Epoch: [7/30] Step: [1/13] Loss: 0.3001990020275116
+INFO:root:Epoch: [7/30] Step: [11/13] Loss: 0.29963621497154236
+INFO:root:Epoch: [7/30] Step: [13/13] Loss: 0.2958296537399292
+INFO:root:Epoch: [8/30] Step: [1/13] Loss: 0.29927125573158264
+INFO:root:Epoch: [8/30] Step: [11/13] Loss: 0.2997433543205261
+INFO:root:Epoch: [8/30] Step: [13/13] Loss: 0.2961704730987549
+INFO:root:Epoch: [9/30] Step: [1/13] Loss: 0.29934245347976685
+INFO:root:Epoch: [9/30] Step: [11/13] Loss: 0.2983778119087219
+INFO:root:Epoch: [9/30] Step: [13/13] Loss: 0.2946974039077759
+INFO:root:Epoch: [10/30] Step: [1/13] Loss: 0.2984354794025421
+INFO:root:Epoch: [10/30] Step: [11/13] Loss: 0.29861897230148315
+INFO:root:Epoch: [10/30] Step: [13/13] Loss: 0.2948210835456848
+INFO:root:Epoch: [11/30] Step: [1/13] Loss: 0.297840416431427
+INFO:root:Epoch: [11/30] Step: [11/13] Loss: 0.29737886786460876
+INFO:root:Epoch: [11/30] Step: [13/13] Loss: 0.29308509826660156
+INFO:root:Epoch: [12/30] Step: [1/13] Loss: 0.2969755530357361
+INFO:root:Epoch: [12/30] Step: [11/13] Loss: 0.2957034111022949
+INFO:root:Epoch: [12/30] Step: [13/13] Loss: 0.29021257162094116
+INFO:root:Epoch: [13/30] Step: [1/13] Loss: 0.29534584283828735
+INFO:root:Epoch: [13/30] Step: [11/13] Loss: 0.2940431535243988
+INFO:root:Epoch: [13/30] Step: [13/13] Loss: 0.2837049663066864
+INFO:root:Epoch: [14/30] Step: [1/13] Loss: 0.2897409200668335
+INFO:root:Epoch: [14/30] Step: [11/13] Loss: 0.28518450260162354
+INFO:root:Epoch: [14/30] Step: [13/13] Loss: 0.2590792775154114
+INFO:root:Epoch: [15/30] Step: [1/13] Loss: 0.2721008360385895
+INFO:root:Epoch: [15/30] Step: [11/13] Loss: 0.22044846415519714
+INFO:root:Epoch: [15/30] Step: [13/13] Loss: 0.15349066257476807
+INFO:root:Epoch: [16/30] Step: [1/13] Loss: 0.1817680299282074
+INFO:root:Epoch: [16/30] Step: [11/13] Loss: 0.34106171131134033
+INFO:root:Epoch: [16/30] Step: [13/13] Loss: 0.21091869473457336
+INFO:root:Epoch: [17/30] Step: [1/13] Loss: 0.279218852519989
+INFO:root:Epoch: [17/30] Step: [11/13] Loss: 0.254433274269104
+INFO:root:Epoch: [17/30] Step: [13/13] Loss: 0.10136426985263824
+INFO:root:Epoch: [18/30] Step: [1/13] Loss: 0.1852668821811676
+INFO:root:Epoch: [18/30] Step: [11/13] Loss: 0.16154995560646057
+INFO:root:Epoch: [18/30] Step: [13/13] Loss: 0.07192934304475784
+INFO:root:Epoch: [19/30] Step: [1/13] Loss: 0.0725535973906517
+INFO:root:Epoch: [19/30] Step: [11/13] Loss: 0.09008143842220306
+INFO:root:Epoch: [19/30] Step: [13/13] Loss: 0.03366857394576073
+INFO:root:Epoch: [20/30] Step: [1/13] Loss: 0.06803710758686066
+INFO:root:Epoch: [20/30] Step: [11/13] Loss: 0.08441299945116043
+INFO:root:Epoch: [20/30] Step: [13/13] Loss: 0.019185518845915794
+INFO:root:Epoch: [21/30] Step: [1/13] Loss: 0.05851484835147858
+INFO:root:Epoch: [21/30] Step: [11/13] Loss: 0.06731151044368744
+INFO:root:Epoch: [21/30] Step: [13/13] Loss: 0.027485981583595276
+INFO:root:Epoch: [22/30] Step: [1/13] Loss: 0.045692019164562225
+INFO:root:Epoch: [22/30] Step: [11/13] Loss: 0.0560627281665802
+INFO:root:Epoch: [22/30] Step: [13/13] Loss: 0.01576622575521469
+INFO:root:Epoch: [23/30] Step: [1/13] Loss: 0.05430695414543152
+INFO:root:Epoch: [23/30] Step: [11/13] Loss: 0.04781731218099594
+INFO:root:Epoch: [23/30] Step: [13/13] Loss: 0.01845073327422142
+INFO:root:Epoch: [24/30] Step: [1/13] Loss: 0.03740199655294418
+INFO:root:Epoch: [24/30] Step: [11/13] Loss: 0.04559700936079025
+INFO:root:Epoch: [24/30] Step: [13/13] Loss: 0.01123717986047268
+INFO:root:Epoch: [25/30] Step: [1/13] Loss: 0.034856341779232025
+INFO:root:Epoch: [25/30] Step: [11/13] Loss: 0.04360252618789673
+INFO:root:Epoch: [25/30] Step: [13/13] Loss: 0.01428668387234211
+INFO:root:Epoch: [26/30] Step: [1/13] Loss: 0.03446786105632782
+INFO:root:Epoch: [26/30] Step: [11/13] Loss: 0.04486946016550064
+INFO:root:Epoch: [26/30] Step: [13/13] Loss: 0.013015266507863998
+INFO:root:Epoch: [27/30] Step: [1/13] Loss: 0.026612255722284317
+INFO:root:Epoch: [27/30] Step: [11/13] Loss: 0.03276744857430458
+INFO:root:Epoch: [27/30] Step: [13/13] Loss: 0.009294295683503151
+INFO:root:Epoch: [28/30] Step: [1/13] Loss: 0.026138942688703537
+INFO:root:Epoch: [28/30] Step: [11/13] Loss: 0.05117490887641907
+INFO:root:Epoch: [28/30] Step: [13/13] Loss: 0.011304719373583794
+INFO:root:Epoch: [29/30] Step: [1/13] Loss: 0.02432844415307045
+INFO:root:Epoch: [29/30] Step: [11/13] Loss: 0.042384855449199677
+INFO:root:Epoch: [29/30] Step: [13/13] Loss: 0.011779367923736572
+INFO:root:Epoch: [30/30] Step: [1/13] Loss: 0.041457436978816986
+INFO:root:Epoch: [30/30] Step: [11/13] Loss: 0.05918549373745918
+INFO:root:Epoch: [30/30] Step: [13/13] Loss: 0.019717928022146225
+INFO:root:(train) Positive pair mean distance: 1.509667992591858
+INFO:root:(train) Negative pair mean distance: 1.7488240003585815
+INFO:root:(dev) Positive pair mean distance: 1.466105580329895
+INFO:root:(dev) Negative pair mean distance: 1.5193860530853271
+INFO:root:(dev) Select threshold: 1.4714335203170776
+INFO:root:(dev) Use rate: 0.1 Single sentence matching accuracy: 0.6178451180458069
+INFO:root:(dev) Positive pair mean distance: 1.466105580329895
+INFO:root:(dev) Negative pair mean distance: 1.5193860530853271
+INFO:root:(dev) Select threshold: 1.4767616987228394
+INFO:root:(dev) Use rate: 0.2 Single sentence matching accuracy: 0.6111111044883728
+INFO:root:(dev) Positive pair mean distance: 1.466105580329895
+INFO:root:(dev) Negative pair mean distance: 1.5193860530853271
+INFO:root:(dev) Select threshold: 1.482089638710022
+INFO:root:(dev) Use rate: 0.3 Single sentence matching accuracy: 0.6060606241226196
+INFO:root:(dev) Positive pair mean distance: 1.466105580329895
+INFO:root:(dev) Negative pair mean distance: 1.5193860530853271
+INFO:root:(dev) Select threshold: 1.4874178171157837
+INFO:root:(dev) Use rate: 0.4 Single sentence matching accuracy: 0.6077440977096558
+INFO:root:(dev) Positive pair mean distance: 1.466105580329895
+INFO:root:(dev) Negative pair mean distance: 1.5193860530853271
+INFO:root:(dev) Select threshold: 1.4927458763122559
+INFO:root:(dev) Use rate: 0.5 Single sentence matching accuracy: 0.5993266105651855
+INFO:root:(dev) Positive pair mean distance: 1.466105580329895
+INFO:root:(dev) Negative pair mean distance: 1.5193860530853271
+INFO:root:(dev) Select threshold: 1.4980738162994385
+INFO:root:(dev) Use rate: 0.6 Single sentence matching accuracy: 0.5925925970077515
+INFO:root:(dev) Positive pair mean distance: 1.466105580329895
+INFO:root:(dev) Negative pair mean distance: 1.5193860530853271
+INFO:root:(dev) Select threshold: 1.5034019947052002
+INFO:root:(dev) Use rate: 0.7 Single sentence matching accuracy: 0.5841751098632812
+INFO:root:(dev) Positive pair mean distance: 1.466105580329895
+INFO:root:(dev) Negative pair mean distance: 1.5193860530853271
+INFO:root:(dev) Select threshold: 1.5087299346923828
+INFO:root:(dev) Use rate: 0.8 Single sentence matching accuracy: 0.5774410963058472
+INFO:root:(dev) Positive pair mean distance: 1.466105580329895
+INFO:root:(dev) Negative pair mean distance: 1.5193860530853271
+INFO:root:(dev) Select threshold: 1.5140578746795654
+INFO:root:(dev) Use rate: 0.9 Single sentence matching accuracy: 0.567340075969696
+INFO:root:(dev) Using rate: 0.1 Using threshold: 1.4714335203170776
+INFO:root:(test) Single sentence matching accuracy: 0.5567352355673524
+INFO:root:(test) 1: pos: 8 neg: 10 actual: False predict: False
+INFO:root:(test) 2: pos: 9 neg: 15 actual: False predict: False
+INFO:root:(test) 3: pos: 8 neg: 4 actual: False predict: True
+INFO:root:(test) 4: pos: 14 neg: 6 actual: False predict: True
+INFO:root:(test) 5: pos: 14 neg: 11 actual: False predict: True
+INFO:root:(test) 6: pos: 2 neg: 11 actual: False predict: False
+INFO:root:(test) 7: pos: 6 neg: 15 actual: False predict: False
+INFO:root:(test) 8: pos: 5 neg: 17 actual: False predict: False
+INFO:root:(test) 9: pos: 3 neg: 23 actual: False predict: False
+INFO:root:(test) 10: pos: 13 neg: 6 actual: True predict: True
+INFO:root:(test) 11: pos: 5 neg: 13 actual: True predict: False
+INFO:root:(test) 12: pos: 13 neg: 16 actual: True predict: False
+INFO:root:(test) 13: pos: 11 neg: 6 actual: True predict: True
+INFO:root:(test) 14: pos: 7 neg: 15 actual: True predict: False
+INFO:root:(test) 15: pos: 16 neg: 6 actual: False predict: True
+INFO:root:(test) 16: pos: 6 neg: 5 actual: False predict: True
+INFO:root:(test) 17: pos: 4 neg: 10 actual: False predict: False
+INFO:root:(test) 18: pos: 3 neg: 7 actual: False predict: False
+INFO:root:(test) 19: pos: 4 neg: 9 actual: False predict: False
+INFO:root:(test) 20: pos: 6 neg: 8 actual: False predict: False
+INFO:root:(test) 21: pos: 6 neg: 6 actual: False predict: True
+INFO:root:(test) 22: pos: 8 neg: 3 actual: True predict: True
+INFO:root:(test) 23: pos: 4 neg: 4 actual: True predict: True
+INFO:root:(test) 24: pos: 10 neg: 10 actual: True predict: True
+INFO:root:(test) 25: pos: 6 neg: 6 actual: True predict: True
+INFO:root:(test) 26: pos: 3 neg: 7 actual: True predict: False
+INFO:root:(test) 27: pos: 7 neg: 5 actual: True predict: True
+INFO:root:(test) 28: pos: 8 neg: 12 actual: False predict: False
+INFO:root:(test) 29: pos: 6 neg: 16 actual: False predict: False
+INFO:root:(test) 30: pos: 6 neg: 11 actual: False predict: False
+INFO:root:(test) 31: pos: 7 neg: 10 actual: False predict: False
+INFO:root:(test) 32: pos: 10 neg: 13 actual: False predict: False
+INFO:root:(test) 33: pos: 9 neg: 11 actual: False predict: False
+INFO:root:(test) 34: pos: 6 neg: 10 actual: False predict: False
+INFO:root:(test) 35: pos: 10 neg: 9 actual: False predict: True
+INFO:root:(test) 36: pos: 11 neg: 12 actual: True predict: False
+INFO:root:(test) 37: pos: 15 neg: 5 actual: True predict: True
+INFO:root:(test) 38: pos: 7 neg: 15 actual: True predict: False
+INFO:root:(test) 39: pos: 10 neg: 9 actual: True predict: True
+INFO:root:(test) 40: pos: 10 neg: 6 actual: True predict: True
+INFO:root:(test) 41: pos: 12 neg: 6 actual: True predict: True
+INFO:root:(test) 42: pos: 10 neg: 15 actual: True predict: False
+INFO:root:(test) 43: pos: 6 neg: 14 actual: True predict: False
+INFO:root:(test) 44: pos: 6 neg: 7 actual: False predict: False
+INFO:root:(test) 45: pos: 2 neg: 7 actual: False predict: False
+INFO:root:(test) 46: pos: 2 neg: 11 actual: False predict: False
+INFO:root:(test) 47: pos: 9 neg: 10 actual: False predict: False
+INFO:root:(test) 48: pos: 8 neg: 4 actual: False predict: True
+INFO:root:(test) 49: pos: 19 neg: 8 actual: False predict: True
+INFO:root:(test) 50: pos: 3 neg: 5 actual: False predict: False
+INFO:root:(test) 51: pos: 4 neg: 11 actual: True predict: False
+INFO:root:(test) 52: pos: 8 neg: 6 actual: True predict: True
+INFO:root:(test) 53: pos: 11 neg: 4 actual: True predict: True
+INFO:root:(test) 54: pos: 4 neg: 8 actual: True predict: False
+INFO:root:(test) 55: pos: 7 neg: 6 actual: True predict: True
+INFO:root:(test) 56: pos: 7 neg: 12 actual: False predict: False
+INFO:root:(test) 57: pos: 10 neg: 13 actual: False predict: False
+INFO:root:(test) 58: pos: 5 neg: 16 actual: False predict: False
+INFO:root:(test) 59: pos: 2 neg: 12 actual: False predict: False
+INFO:root:(test) 60: pos: 3 neg: 14 actual: False predict: False
+INFO:root:(test) 61: pos: 8 neg: 13 actual: False predict: False
+INFO:root:(test) 62: pos: 8 neg: 16 actual: False predict: False
+INFO:root:(test) 63: pos: 14 neg: 5 actual: False predict: True
+INFO:root:(test) 64: pos: 7 neg: 8 actual: False predict: False
+INFO:root:(test) 65: pos: 10 neg: 12 actual: False predict: False
+INFO:root:(test) 66: pos: 8 neg: 15 actual: False predict: False
+INFO:root:(test) 67: pos: 3 neg: 14 actual: False predict: False
+INFO:root:(test) 68: pos: 9 neg: 8 actual: True predict: True
+INFO:root:(test) 69: pos: 8 neg: 6 actual: True predict: True
+INFO:root:(test) 70: pos: 4 neg: 10 actual: True predict: False
+INFO:root:(test) 71: pos: 15 neg: 13 actual: True predict: True
+INFO:root:(test) 72: pos: 14 neg: 7 actual: True predict: True
+INFO:root:(test) 73: pos: 11 neg: 9 actual: True predict: True
+INFO:root:(test) 74: pos: 10 neg: 13 actual: False predict: False
+INFO:root:(test) 75: pos: 6 neg: 16 actual: False predict: False
+INFO:root:(test) 76: pos: 13 neg: 9 actual: False predict: True
+INFO:root:(test) 77: pos: 6 neg: 15 actual: False predict: False
+INFO:root:(test) 78: pos: 6 neg: 14 actual: True predict: False
+INFO:root:(test) 79: pos: 14 neg: 7 actual: True predict: True
+INFO:root:(test) 80: pos: 17 neg: 5 actual: True predict: True
+INFO:root:(test) 81: pos: 10 neg: 9 actual: True predict: True
+INFO:root:(test) 82: pos: 9 neg: 14 actual: True predict: False
+INFO:root:(test) 83: pos: 10 neg: 13 actual: True predict: False
+INFO:root:(test) Text-Image matching accuracy: 0.6987951807228916
+INFO:root:(test) TP: 22 FN: 14
+INFO:root:(test) FP: 11 TN: 36
+
+进程已结束，退出代码为 0

@@ -1,0 +1,677 @@
+{
+ "created_dataset/book_1/text/33.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_1/image/7_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/24.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_1/image/24_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/52.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_1/image/4_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/45.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_1/image/3_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/23.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_1/image/40_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/34.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_1/image/18_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/40.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_1/image/1_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/36.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_1/image/52_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/50.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_1/image/20_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/29.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_1/image/29_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/13.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_1/image/13_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/49.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_1/image/49_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/48.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_1/image/48_1.png"
+  ]
+ },
+ "created_dataset/book_1/text/47.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_1/image/47_1.png"
+  ]
+ },
+ "created_dataset/book_2/text/77.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_2/image/48_3.png",
+   "created_dataset/book_2/image/48_2.png",
+   "created_dataset/book_2/image/48_1.png",
+   "created_dataset/book_2/image/48_4.png"
+  ]
+ },
+ "created_dataset/book_2/text/61.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_2/image/74_1.png",
+   "created_dataset/book_2/image/74_3.png",
+   "created_dataset/book_2/image/74_2.png",
+   "created_dataset/book_2/image/74_4.png"
+  ]
+ },
+ "created_dataset/book_2/text/63.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_2/image/50_1.png",
+   "created_dataset/book_2/image/50_2.png",
+   "created_dataset/book_2/image/50_3.png",
+   "created_dataset/book_2/image/50_4.png"
+  ]
+ },
+ "created_dataset/book_2/text/65.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_2/image/65_1.png",
+   "created_dataset/book_2/image/65_2.png",
+   "created_dataset/book_2/image/65_3.png",
+   "created_dataset/book_2/image/65_4.png"
+  ]
+ },
+ "created_dataset/book_2/text/14.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_2/image/61_4.png",
+   "created_dataset/book_2/image/61_3.png",
+   "created_dataset/book_2/image/61_2.png",
+   "created_dataset/book_2/image/61_1.png"
+  ]
+ },
+ "created_dataset/book_2/text/4.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_2/image/64_2.png",
+   "created_dataset/book_2/image/64_3.png",
+   "created_dataset/book_2/image/64_1.png",
+   "created_dataset/book_2/image/64_4.png"
+  ]
+ },
+ "created_dataset/book_2/text/48.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_2/image/44_4.png",
+   "created_dataset/book_2/image/44_1.png",
+   "created_dataset/book_2/image/44_2.png",
+   "created_dataset/book_2/image/44_3.png"
+  ]
+ },
+ "created_dataset/book_2/text/58.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_2/image/58_1.png",
+   "created_dataset/book_2/image/58_2.png",
+   "created_dataset/book_2/image/58_3.png",
+   "created_dataset/book_2/image/58_4.png"
+  ]
+ },
+ "created_dataset/book_2/text/57.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_2/image/57_4.png",
+   "created_dataset/book_2/image/57_2.png",
+   "created_dataset/book_2/image/57_3.png",
+   "created_dataset/book_2/image/57_1.png"
+  ]
+ },
+ "created_dataset/book_2/text/78.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_2/image/78_4.png",
+   "created_dataset/book_2/image/78_2.png",
+   "created_dataset/book_2/image/78_3.png",
+   "created_dataset/book_2/image/78_1.png"
+  ]
+ },
+ "created_dataset/book_2/text/34.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_2/image/34_4.png",
+   "created_dataset/book_2/image/34_1.png",
+   "created_dataset/book_2/image/34_2.png",
+   "created_dataset/book_2/image/34_3.png"
+  ]
+ },
+ "created_dataset/book_2/text/26.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_2/image/26_4.png",
+   "created_dataset/book_2/image/26_1.png",
+   "created_dataset/book_2/image/26_2.png",
+   "created_dataset/book_2/image/26_3.png"
+  ]
+ },
+ "created_dataset/book_2/text/30.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_2/image/30_3.png",
+   "created_dataset/book_2/image/30_2.png",
+   "created_dataset/book_2/image/30_1.png",
+   "created_dataset/book_2/image/30_4.png"
+  ]
+ },
+ "created_dataset/book_3/text/57.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_3/image/27_4.png",
+   "created_dataset/book_3/image/27_2.png",
+   "created_dataset/book_3/image/27_3.png",
+   "created_dataset/book_3/image/27_1.png"
+  ]
+ },
+ "created_dataset/book_3/text/6.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_3/image/39_1.png",
+   "created_dataset/book_3/image/39_3.png",
+   "created_dataset/book_3/image/39_2.png",
+   "created_dataset/book_3/image/39_4.png"
+  ]
+ },
+ "created_dataset/book_3/text/66.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_3/image/70_4.png",
+   "created_dataset/book_3/image/70_2.png",
+   "created_dataset/book_3/image/70_3.png",
+   "created_dataset/book_3/image/70_1.png"
+  ]
+ },
+ "created_dataset/book_3/text/64.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_3/image/23_1.png",
+   "created_dataset/book_3/image/23_3.png",
+   "created_dataset/book_3/image/23_2.png",
+   "created_dataset/book_3/image/23_4.png"
+  ]
+ },
+ "created_dataset/book_3/text/19.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_3/image/64_2.png",
+   "created_dataset/book_3/image/64_3.png",
+   "created_dataset/book_3/image/64_1.png",
+   "created_dataset/book_3/image/64_4.png"
+  ]
+ },
+ "created_dataset/book_3/text/11.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_3/image/61_4.png",
+   "created_dataset/book_3/image/61_3.png",
+   "created_dataset/book_3/image/61_2.png",
+   "created_dataset/book_3/image/61_1.png"
+  ]
+ },
+ "created_dataset/book_3/text/27.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_3/image/48_3.png",
+   "created_dataset/book_3/image/48_2.png",
+   "created_dataset/book_3/image/48_1.png",
+   "created_dataset/book_3/image/48_4.png"
+  ]
+ },
+ "created_dataset/book_3/text/61.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_3/image/26_4.png",
+   "created_dataset/book_3/image/26_1.png",
+   "created_dataset/book_3/image/26_2.png",
+   "created_dataset/book_3/image/26_3.png"
+  ]
+ },
+ "created_dataset/book_3/text/62.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_3/image/62_4.png",
+   "created_dataset/book_3/image/62_2.png",
+   "created_dataset/book_3/image/62_3.png",
+   "created_dataset/book_3/image/62_1.png"
+  ]
+ },
+ "created_dataset/book_3/text/55.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_3/image/55_4.png",
+   "created_dataset/book_3/image/55_1.png",
+   "created_dataset/book_3/image/55_3.png",
+   "created_dataset/book_3/image/55_2.png"
+  ]
+ },
+ "created_dataset/book_3/text/2.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_3/image/2_2.png",
+   "created_dataset/book_3/image/2_3.png",
+   "created_dataset/book_3/image/2_1.png",
+   "created_dataset/book_3/image/2_4.png"
+  ]
+ },
+ "created_dataset/book_3/text/46.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_3/image/46_4.png",
+   "created_dataset/book_3/image/46_3.png",
+   "created_dataset/book_3/image/46_2.png",
+   "created_dataset/book_3/image/46_1.png"
+  ]
+ },
+ "created_dataset/book_3/text/1.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_3/image/1_3.png",
+   "created_dataset/book_3/image/1_2.png",
+   "created_dataset/book_3/image/1_1.png",
+   "created_dataset/book_3/image/1_4.png"
+  ]
+ },
+ "created_dataset/book_3/text/20.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_3/image/20_1.png",
+   "created_dataset/book_3/image/20_2.png",
+   "created_dataset/book_3/image/20_3.png",
+   "created_dataset/book_3/image/20_4.png"
+  ]
+ },
+ "created_dataset/book_3/text/37.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_3/image/37_4.png",
+   "created_dataset/book_3/image/37_1.png",
+   "created_dataset/book_3/image/37_3.png",
+   "created_dataset/book_3/image/37_2.png"
+  ]
+ },
+ "created_dataset/book_3/text/36.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_3/image/36_4.png",
+   "created_dataset/book_3/image/36_3.png",
+   "created_dataset/book_3/image/36_2.png",
+   "created_dataset/book_3/image/36_1.png"
+  ]
+ },
+ "created_dataset/book_4/text/58.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_4/image/17_3.png",
+   "created_dataset/book_4/image/17_2.png",
+   "created_dataset/book_4/image/17_1.png",
+   "created_dataset/book_4/image/17_4.png"
+  ]
+ },
+ "created_dataset/book_4/text/4.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_4/image/49_1.png",
+   "created_dataset/book_4/image/49_3.png",
+   "created_dataset/book_4/image/49_2.png",
+   "created_dataset/book_4/image/49_4.png"
+  ]
+ },
+ "created_dataset/book_4/text/7.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_4/image/37_4.png",
+   "created_dataset/book_4/image/37_1.png",
+   "created_dataset/book_4/image/37_3.png",
+   "created_dataset/book_4/image/37_2.png"
+  ]
+ },
+ "created_dataset/book_4/text/5.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_4/image/18_4.png",
+   "created_dataset/book_4/image/18_1.png",
+   "created_dataset/book_4/image/18_3.png",
+   "created_dataset/book_4/image/18_2.png"
+  ]
+ },
+ "created_dataset/book_4/text/37.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_4/image/20_1.png",
+   "created_dataset/book_4/image/20_2.png",
+   "created_dataset/book_4/image/20_3.png",
+   "created_dataset/book_4/image/20_4.png"
+  ]
+ },
+ "created_dataset/book_4/text/32.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_4/image/58_1.png",
+   "created_dataset/book_4/image/58_2.png",
+   "created_dataset/book_4/image/58_3.png",
+   "created_dataset/book_4/image/58_4.png"
+  ]
+ },
+ "created_dataset/book_4/text/43.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_4/image/43_2.png",
+   "created_dataset/book_4/image/43_3.png",
+   "created_dataset/book_4/image/43_1.png",
+   "created_dataset/book_4/image/43_4.png"
+  ]
+ },
+ "created_dataset/book_4/text/28.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_4/image/28_1.png",
+   "created_dataset/book_4/image/28_2.png",
+   "created_dataset/book_4/image/28_3.png",
+   "created_dataset/book_4/image/28_4.png"
+  ]
+ },
+ "created_dataset/book_4/text/10.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_4/image/10_4.png",
+   "created_dataset/book_4/image/10_1.png",
+   "created_dataset/book_4/image/10_3.png",
+   "created_dataset/book_4/image/10_2.png"
+  ]
+ },
+ "created_dataset/book_4/text/22.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_4/image/22_3.png",
+   "created_dataset/book_4/image/22_2.png",
+   "created_dataset/book_4/image/22_1.png",
+   "created_dataset/book_4/image/22_4.png"
+  ]
+ },
+ "created_dataset/book_4/text/25.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_4/image/25_4.png",
+   "created_dataset/book_4/image/25_1.png",
+   "created_dataset/book_4/image/25_3.png",
+   "created_dataset/book_4/image/25_2.png"
+  ]
+ },
+ "created_dataset/book_4/text/30.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_4/image/30_3.png",
+   "created_dataset/book_4/image/30_2.png",
+   "created_dataset/book_4/image/30_1.png",
+   "created_dataset/book_4/image/30_4.png"
+  ]
+ },
+ "created_dataset/book_5/text/12.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/41_1.png",
+   "created_dataset/book_5/image/41_3.png",
+   "created_dataset/book_5/image/41_2.png",
+   "created_dataset/book_5/image/41_4.png"
+  ]
+ },
+ "created_dataset/book_5/text/35.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/12_4.png",
+   "created_dataset/book_5/image/12_2.png",
+   "created_dataset/book_5/image/12_3.png",
+   "created_dataset/book_5/image/12_1.png"
+  ]
+ },
+ "created_dataset/book_5/text/59.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/35_4.png",
+   "created_dataset/book_5/image/35_2.png",
+   "created_dataset/book_5/image/35_3.png",
+   "created_dataset/book_5/image/35_1.png"
+  ]
+ },
+ "created_dataset/book_5/text/54.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/37_4.png",
+   "created_dataset/book_5/image/37_1.png",
+   "created_dataset/book_5/image/37_3.png",
+   "created_dataset/book_5/image/37_2.png"
+  ]
+ },
+ "created_dataset/book_5/text/13.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/8_1.png",
+   "created_dataset/book_5/image/8_3.png",
+   "created_dataset/book_5/image/8_2.png",
+   "created_dataset/book_5/image/8_4.png"
+  ]
+ },
+ "created_dataset/book_5/text/11.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/30_3.png",
+   "created_dataset/book_5/image/30_2.png",
+   "created_dataset/book_5/image/30_1.png",
+   "created_dataset/book_5/image/30_4.png"
+  ]
+ },
+ "created_dataset/book_5/text/14.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/34_4.png",
+   "created_dataset/book_5/image/34_1.png",
+   "created_dataset/book_5/image/34_2.png",
+   "created_dataset/book_5/image/34_3.png"
+  ]
+ },
+ "created_dataset/book_5/text/53.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/47_4.png",
+   "created_dataset/book_5/image/47_1.png",
+   "created_dataset/book_5/image/47_3.png",
+   "created_dataset/book_5/image/47_2.png"
+  ]
+ },
+ "created_dataset/book_5/text/18.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/36_4.png",
+   "created_dataset/book_5/image/36_3.png",
+   "created_dataset/book_5/image/36_2.png",
+   "created_dataset/book_5/image/36_1.png"
+  ]
+ },
+ "created_dataset/book_5/text/30.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/20_1.png",
+   "created_dataset/book_5/image/20_2.png",
+   "created_dataset/book_5/image/20_3.png",
+   "created_dataset/book_5/image/20_4.png"
+  ]
+ },
+ "created_dataset/book_5/text/49.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/21_2.png",
+   "created_dataset/book_5/image/21_3.png",
+   "created_dataset/book_5/image/21_1.png",
+   "created_dataset/book_5/image/21_4.png"
+  ]
+ },
+ "created_dataset/book_5/text/8.txt": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_5/image/55_4.png",
+   "created_dataset/book_5/image/55_1.png",
+   "created_dataset/book_5/image/55_3.png",
+   "created_dataset/book_5/image/55_2.png"
+  ]
+ },
+ "created_dataset/book_5/text/9.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_5/image/9_3.png",
+   "created_dataset/book_5/image/9_2.png",
+   "created_dataset/book_5/image/9_1.png",
+   "created_dataset/book_5/image/9_4.png"
+  ]
+ },
+ "created_dataset/book_5/text/43.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_5/image/43_2.png",
+   "created_dataset/book_5/image/43_3.png",
+   "created_dataset/book_5/image/43_1.png",
+   "created_dataset/book_5/image/43_4.png"
+  ]
+ },
+ "created_dataset/book_5/text/1.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_5/image/1_3.png",
+   "created_dataset/book_5/image/1_2.png",
+   "created_dataset/book_5/image/1_1.png",
+   "created_dataset/book_5/image/1_4.png"
+  ]
+ },
+ "created_dataset/book_5/text/32.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_5/image/32_1.png",
+   "created_dataset/book_5/image/32_2.png",
+   "created_dataset/book_5/image/32_3.png",
+   "created_dataset/book_5/image/32_4.png"
+  ]
+ },
+ "created_dataset/book_5/text/27.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_5/image/27_4.png",
+   "created_dataset/book_5/image/27_2.png",
+   "created_dataset/book_5/image/27_3.png",
+   "created_dataset/book_5/image/27_1.png"
+  ]
+ },
+ "created_dataset/book_5/text/31.txt": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_5/image/31_1.png",
+   "created_dataset/book_5/image/31_3.png",
+   "created_dataset/book_5/image/31_2.png",
+   "created_dataset/book_5/image/31_4.png"
+  ]
+ },
+ "created_dataset/book_6/text/11": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_6/image/29_1.png"
+  ]
+ },
+ "created_dataset/book_6/text/52": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_6/image/9_1.png"
+  ]
+ },
+ "created_dataset/book_6/text/5": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_6/image/26_1.png"
+  ]
+ },
+ "created_dataset/book_6/text/8": {
+  "match": 0,
+  "images": [
+   "created_dataset/book_6/image/32_1.png"
+  ]
+ },
+ "created_dataset/book_6/text/57": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_6/image/57_1.png"
+  ]
+ },
+ "created_dataset/book_6/text/45": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_6/image/45_1.png"
+  ]
+ },
+ "created_dataset/book_6/text/17": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_6/image/17_1.png"
+  ]
+ },
+ "created_dataset/book_6/text/38": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_6/image/38_1.png"
+  ]
+ },
+ "created_dataset/book_6/text/39": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_6/image/39_1.png"
+  ]
+ },
+ "created_dataset/book_6/text/24": {
+  "match": 1,
+  "images": [
+   "created_dataset/book_6/image/24_1.png"
+  ]
+ }
+}
